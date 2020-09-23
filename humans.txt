@@ -1,0 +1,13 @@
+/* TEAM */
+    Author: Ted Serbinski
+    Developer: Ted Serbinski
+    Contact: helpme@serbinskipromise.com
+    Twitter: @TedSerbinski
+    From: Detroit, Michigan, USA
+
+/* SITE */
+    Last update: 2013/04/04
+    Language: English
+    Standards: HTML5, CSS3
+    Software: Coda, Transmit
+    Hosting: AWS S3
